@@ -1,4 +1,4 @@
-# Base Game
+# Base Website
 
 This is a basic setup for a web project
 
