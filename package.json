@@ -1,0 +1,30 @@
+{
+  "name": "rtsgame",
+  "version": "0.0.1",
+  "description": "Just playing around :3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/leewalkergm/rts-game.git"
+  },
+  "author": "leewalkergm",
+  "license": "proprietary",
+  "homepage": "https://bitbucket.org/leewalkergm/rts-game#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.7",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-changed": "^1.2.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-less": "^3.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "require-dir": "^0.3.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.2"
+  }
+}
